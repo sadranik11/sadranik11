@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sadra 👋</h1>
+<h3 align="center">C++ Programmer & Unreal Engine Game Developer</h3>
 
-<!--
-**sadranik11/sadranik11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadranik11&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 Currently working on my first game, **Fractured Reality**, using **Unreal Engine 5.5.4**
+- 🌱 Learning **advanced C++ and game development**
+- 💻 Passionate about **game programming, graphics, and low-level development**
+- 🎯 Goal: Move to the US and work in the game industry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me:
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadranik117r@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadranik11)
+
+### ⚡ Skills:
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![Game Development](https://img.shields.io/badge/Game%20Development-green?style=for-the-badge)
+
+### 📊 GitHub Stats:
+![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadranik11&show_icons=true&theme=dark)
+
+---
+⭐ **Feel free to explore my repositories and follow me!** 😊
