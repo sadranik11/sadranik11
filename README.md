@@ -14,6 +14,7 @@
 ### 📫 Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadranik117r@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadranik11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadra-nik-315069362/)
 
 ### ⚡ Skills:
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
