@@ -17,11 +17,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadra-nik-315069362/)
 
 ### ⚡ Skills:
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Software Development](https://img.shields.io/badge/Software%20Development-purple?style=for-the-badge)
+![Game Development](https://img.shields.io/badge/Game%20Development-green?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game%20Development-green?style=for-the-badge)
 
 ### 📊 GitHub Stats:
 ![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadranik11&show_icons=true&theme=dark)
