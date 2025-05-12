@@ -18,8 +18,9 @@
 
 ### ⚡ Skills:
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-purple?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game%20Development-green?style=for-the-badge)
 
 ### 📊 GitHub Stats:
