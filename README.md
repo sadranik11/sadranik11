@@ -6,7 +6,7 @@
 </p>
 
 ### 🚀 About Me:
-- 🔭 Currently working on my first game, **Fractured Reality**, using **Unreal Engine 5.5.4**
+- 🔭 Currently working on my first game, **The Last Bell**, using **Unreal Engine 5.5.4**
 - 🌱 Learning **advanced C++ and game development**
 - 💻 Passionate about **game programming, graphics, and low-level development**
 - 🎯 Goal: Move to the US and work in the game industry
